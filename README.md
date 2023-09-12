@@ -8,7 +8,7 @@ Hola mi nombre es Moises Reyes,actualmente vivo en bolivia.Soy estudiante de Ing
 ## Lenguajes y tecnologias 👨🏻‍💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,vue,postgresql,git,github,neovim,vim,bash,nextjs,aws,mysql,nginx,astro,bootstrap,tailwindcss,dart,deno,discord,docker,firebase,flutter,go,graphql,js,linux,md,mongodb,netifly,redis,rust,ts,tauri,vite,prisma" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,vue,postgresql,git,github,neovim,vim,bash,nextjs,aws,mysql,nginx,astro,bootstrap,tailwindcss,dart,deno,discord,docker,firebase,flutter,go,graphql,js,linux,md,mongodb,netifly,redis,rust,ts,tauri,vite,prisma,lua,electron" />
   </a>
 </p>
 
