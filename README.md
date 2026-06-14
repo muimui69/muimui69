@@ -1,6 +1,12 @@
-# Hello! I'm Moisés Reyes 👋
+# Hey there! I'm Moises Reyes 👋
+I'm a Computer Systems Engineer from Universidad Autónoma Gabriel René Moreno (Bolivia 🇧🇴) and a Full Stack Developer with 2+ years of experience turning ideas into real, production-ready solutions.
 
-Full Stack Developer passionate about creating scalable, high-quality web solutions. Currently working at **Laboratorios IFA S.A.** and studying Computer Science Engineering at Universidad Autónoma Gabriel René Moreno, Bolivia.
+I genuinely enjoy the full journey — from sitting down with the team to understand what we actually need to build, designing the architecture, writing the code, and shipping it to the cloud. I work with Python, JavaScript, and modern stacks across frontend, backend, and cloud environments.
+
+I also hold a DevSecOps Essentials certification, because I believe great software isn't just about features — it's about security, reliability, and long-term maintainability.
+I thrive in collaborative teams, love learning from others, and always bring my best to the table. Open to new challenges and meaningful connections.
+
+Let's connect! 🤝
 
 <p align="start">
   <a href="mailto:moiso.dev@gmail.com">
